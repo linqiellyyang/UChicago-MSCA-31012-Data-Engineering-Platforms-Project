@@ -41,13 +41,13 @@
 
 ## ‘Data Analysis_R’ Folder
 Inputs
-●    Imports cleaned aggregate data from python script: ‘State_Data_Variables.csv’
+* Imports cleaned aggregate data from python script: ‘State_Data_Variables.csv’
 
 Outputs
-●    ‘Principle Component Analysis.html’
-●    ‘Principle Component Analysis.Rmd’
-●    ‘State_Rankings.csv’
-●    ‘Scaled_State_Data_for_MFA.csv’
+* ‘Principle Component Analysis.html’
+* ‘Principle Component Analysis.Rmd’
+* ‘State_Rankings.csv’
+* ‘Scaled_State_Data_for_MFA.csv’
 
 ## ‘Data Visualization_Tableau’ Folder
 ### ‘County.twb’
